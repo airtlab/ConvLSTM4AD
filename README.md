@@ -21,7 +21,7 @@ To download the original samples and replicate the framework from the beginning,
 # Scripts
 
 - _OASIS3+ADNI1S_CNvsAD_best.ipynb_ performs data re-sampling, input normalization, labels assignment, data division, model training and storage of the model with the lowest validation loss
-- _OASIS3+ADNI1S_CNvsAD_best.h5_ is the model with the lowest validation loss across the runs
+- _https://drive.google.com/file/d/1FIc_Q47m6F0HjOuURbgjrRihbc9_uced/view?usp=sharing_ is the link of model with the lowest validation loss across the runs
 - _OASIS3+ADNI1S_metrics.ipynb_ evaluates the classification metrics (accuracy, precision, specificity, sensitivity, f1-score) for the model _OASIS3+ADNI1S_CNvsAD_best.h5_ on test data
 - _OASIS3+ADNI1S_ROC+AUC.ipynb_ evaluates the Receiver Operating Characteristic (ROC) curve and the respective Area Under the Curve (AUC) for the model _OASIS3+ADNI1S_CNvsAD_best.h5_ on test data
 

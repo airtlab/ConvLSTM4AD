@@ -16,7 +16,7 @@ Such processed data belong to:
 *As such, the investigators within the ADNI contributed to the design and implementation of ADNI and/or provided data but did not participate in analysis or writing of this study. A complete listing of ADNI investigators can be found at <http://adni.loni.usc.edu/wp-content/uploads/how_to_apply/ADNI_Acknowledgement_List.pdf>
 - _OASIS-3_ from Open  Access  Series  of  Imaging  Studies  (OASIS, <https://www.oasis-brains.org/>) [1]
 
-To download the original samples and replicate the framework from the beginning, subject's IDs involved in this study are listed in _ADNI1S_subjID.txt_ and _OASIS3_subjID.txt_.
+To download the original samples and replicate the framework from the beginning, subject's IDs involved in this study are listed in _ADNI1S_subjID.txt_ and _OASIS3_subjID.txt_ in Subj_IDs folder.
 
 # Scripts
 

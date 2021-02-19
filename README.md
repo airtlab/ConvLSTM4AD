@@ -4,13 +4,13 @@ This repository contains the source code of the framework presented in the paper
 
 >Selene Tomassini, Nicola Falcionelli, Paolo Sernani, Henning Müller and Aldo Franco Dragoni, *An End-to-End 3D ConvLSTM-based Framework for Early Diagnosis of Alzheimer's Disease from Full-Resolution Whole-Brain sMRI Scans*.
 
-which aimed to early detect Alzheimer's Disease (AD) from full-resolution whole-brain structural Magnetic Resonance Imaging (sMRI) scans in an end-to-end way.
+which aims to early detect Alzheimer's Disease (AD) from full-resolution whole-brain structural Magnetic Resonance Imaging (sMRI) scans in an end-to-end way.
 The paper is currently under review for the publication at the “34th IEEE CBMS International Symposium on Computer-Based Medical Systems” (IEEE CBMS 2021).
 The experiments were run on Google Colab, using the  GPU  hardware  acceleration  and  high  RAM setups. The classification is performed with a 6-layer neural network, whose backbone is a bidirectional 3D Convolutional Long Short-Term Memory (ConvLSTM) layer. 
 
 # Data
 
-_Merged_dataset/Dataset_ contains the NIFTI files after brain extraction and registration, divided in Cognitively Normal (CN) and AD. 
+_Merged_dataset/Dataset_ contains the NIFTI files after brain extraction and registration, divided in AD and Cognitively Normal (CN). 
 Such processed data belong to:
 - ADNI 1-Screening from Alzheimer’s  Disease  Neuroimaging Initiative* (ADNI, <http://adni.loni.usc.edu/>)
 - OASIS-3 from Open  Access  Series  of  Imaging  Studies  (OASIS, <https://www.oasis-brains.org/>) [1]
@@ -32,10 +32,10 @@ To download the original samples and replicate the framework from the beginning,
 
 # Scripts
 
-- _OASIS3+ADNI1S_CNvsAD.ipynb_ performs data re-sampling, input normalization, labels assignment, data division, model training and validation
-- _https://drive.google.com/file/d/1FIc_Q47m6F0HjOuURbgjrRihbc9_uced/view?usp=sharing_ is the model with the lowest validation loss across the runs
-- _OASIS3+ADNI1S_metrics.ipynb_ evaluates the classification metrics (accuracy, precision, specificity, sensitivity, f1-score) for the model _https://drive.google.com/file/d/1FIc_Q47m6F0HjOuURbgjrRihbc9_uced/view?usp=sharing_ on test data
-- _OASIS3+ADNI1S_ROC+AUC.ipynb_ evaluates the Receiver Operating Characteristic (ROC) curve and the respective Area Under the Curve (AUC) for the model _https://drive.google.com/file/d/1FIc_Q47m6F0HjOuURbgjrRihbc9_uced/view?usp=sharing_ on test data
+- _OASIS3+ADNI1S_ADvsCN.ipynb_ performs data re-sampling, input normalization, labels assignment, data division, model training and validation
+- _https://drive.google.com/file/d/1ke9LtG9S_Q-MpCeTe3WNtTR_mEQndJ1h/view?usp=sharing_ is the model with the lowest validation loss across the runs
+- _OASIS3+ADNI1S_ADvsCN_metrics.ipynb_ evaluates the classification metrics (accuracy, precision, specificity, sensitivity, f1-score) for the model _https://drive.google.com/file/d/1ke9LtG9S_Q-MpCeTe3WNtTR_mEQndJ1h/view?usp=sharing_ on test data
+- _OASIS3+ADNI1S_ADvsCN_ROC+AUC.ipynb_ evaluates the Receiver Operating Characteristic (ROC) curve and the respective Area Under the Curve (AUC) for the model _https://drive.google.com/file/d/1ke9LtG9S_Q-MpCeTe3WNtTR_mEQndJ1h/view?usp=sharing_ on test data
 
 # Acknowledgment
 

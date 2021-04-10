@@ -5,7 +5,7 @@ This repository contains the source code of the framework presented in the paper
 >Selene Tomassini, Nicola Falcionelli, Paolo Sernani, Henning Müller and Aldo Franco Dragoni, *An End-to-End 3D ConvLSTM-based Framework for Early Diagnosis of Alzheimer's Disease from Full-Resolution Whole-Brain sMRI Scans*.
 
 which aims to early detect Alzheimer's Disease (AD) from full-resolution whole-brain structural Magnetic Resonance Imaging (sMRI) scans in an end-to-end way.
-The paper is currently under review for the publication at the “34th IEEE CBMS International Symposium on Computer-Based Medical Systems” (IEEE CBMS 2021).
+The paper has been accepted for the publication at the “34th IEEE CBMS International Symposium on Computer-Based Medical Systems” (IEEE CBMS 2021).
 The experiments were run on Google Colab, using the  GPU  hardware  acceleration  and  high  RAM setups. The classification is performed with a 6-layer neural network, whose backbone is a bidirectional 3D Convolutional Long Short-Term Memory (ConvLSTM) layer. 
 
 # Data
@@ -29,6 +29,7 @@ To download the original samples and replicate the framework from the beginning,
 - Data division with a ratio of 6:2:2
 - Model design
 - Model training, validation and testing
+- Performance evaluation
 
 # Scripts
 
@@ -47,4 +48,6 @@ For sMRI scans belonging to ADNI, data collection and sharing was funded by ADNI
 
 # Citations
 
-Please, cite this study and the original databases to which such sMRI scans belong.
+Please, cite this study** and the original databases to which such sMRI scans belong.
+
+**The link will be provided as soon as the paper is available online.

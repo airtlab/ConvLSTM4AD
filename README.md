@@ -43,6 +43,7 @@ For sMRI scans belonging to ADNI, data collection and sharing was funded by ADNI
 # References
 
 [1] Tomassini, S., Falcionelli, N., Sernani, P., Müller, H., & Dragoni, A. F. (2021, June). An End-to-End 3D ConvLSTM-based Framework for Early Diagnosis of Alzheimer's Disease from Full-Resolution Whole-Brain sMRI Scans. In 2021 IEEE 34th International Symposium on Computer-Based Medical Systems (CBMS) (pp. 74-78). IEEE.
+
 [2] P. J. LaMontagne, T. L. Benzinger, J. C. Morris, S. Keefe, R. Hornbeck, C. Xiong, E. Grant, J. Hassenstab,  K. Moulder, A. Vlassenkoet al., “OASIS-3:  Longitudinal  neuroimaging,  clinical,  and  cognitive  datasetfor normal aging and Alzheimer disease”, MedRxiv, 2019, https://doi.org/10.1101/2019.12.13.19014902.
 
 # Citations

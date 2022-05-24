@@ -1,8 +1,8 @@
-# An End-to-End 3D ConvLSTM-based Framework for Early Diagnosis of Alzheimer's Disease from Full-Resolution Whole-Brain sMRI Scans
+# An end-to-end 3D ConvLSTM-based framework for early diagnosis of Alzheimer's disease from full-resolution whole-brain sMRI scans
 
 This repository contains the source code of the framework presented in the paper
 
->Selene Tomassini, Nicola Falcionelli, Paolo Sernani, Henning Müller and Aldo Franco Dragoni, *An End-to-End 3D ConvLSTM-based Framework for Early Diagnosis of Alzheimer's Disease from Full-Resolution Whole-Brain sMRI Scans*.
+>Selene Tomassini, Nicola Falcionelli, Paolo Sernani, Henning Müller and Aldo Franco Dragoni, *An end-to-end 3D ConvLSTM-based framework for early diagnosis of Alzheimer's disease from full-resolution whole-brain sMRI scans*.
 
 available here: https://ieeexplore.ieee.org/abstract/document/9474675 (DOI: 10.1109/CBMS52027.2021.00081) [1].
 

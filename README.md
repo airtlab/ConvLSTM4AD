@@ -41,9 +41,9 @@ For sMRI scans belonging to ADNI, data collection and sharing was funded by ADNI
 
 # References
 
-[1] Tomassini, S., Falcionelli, N., Sernani, P., Müller, H., & Dragoni, A. F. (2021, June). An End-to-End 3D ConvLSTM-based Framework for Early Diagnosis of Alzheimer's Disease from Full-Resolution Whole-Brain sMRI Scans. In 2021 IEEE 34th International Symposium on Computer-Based Medical Systems (CBMS) (pp. 74-78). IEEE.
+[1] TOMASSINI, Selene, et al. An end-to-end 3D ConvLSTM-based framework for early diagnosis of Alzheimer's disease from full-resolution whole-brain sMRI scans. In: 2021 IEEE 34th International Symposium on Computer-Based Medical Systems. IEEE, 2021. p. 74-78.
 
-[2] P. J. LaMontagne, T. L. Benzinger, J. C. Morris, S. Keefe, R. Hornbeck, C. Xiong, E. Grant, J. Hassenstab,  K. Moulder, A. Vlassenkoet al., “OASIS-3:  Longitudinal  neuroimaging,  clinical,  and  cognitive  datasetfor normal aging and Alzheimer disease”, MedRxiv, 2019, https://doi.org/10.1101/2019.12.13.19014902.
+[2] LAMONTAGNE, Pamela J., et al. OASIS-3: longitudinal neuroimaging, clinical, and cognitive dataset for normal aging and Alzheimer disease. MedRxiv, 2019.
 
 # Citations
 
@@ -52,9 +52,9 @@ Please, cite this study [1] and the original databases the employed sMRI scans b
 BibTeX entry:
 
 	 @inproceedings{tomassini2021end,
-	 title={An End-to-End 3D ConvLSTM-based Framework for Early Diagnosis of Alzheimer's Disease from Full-Resolution Whole-Brain sMRI Scans},
+	 title={An end-to-end 3D ConvLSTM-based framework for early diagnosis of Alzheimer's disease from full-resolution whole-brain sMRI scans},
 	 author={Tomassini, Selene and Falcionelli, Nicola and Sernani, Paolo and M{\"u}ller, Henning and Dragoni, Aldo Franco},
-	 booktitle={2021 IEEE 34th International Symposium on Computer-Based Medical Systems (CBMS)},
+	 booktitle={2021 IEEE 34th International Symposium on Computer-Based Medical Systems},
 	 pages={74--78},
 	 year={2021},
 	 organization={IEEE}

@@ -32,8 +32,8 @@ Such pre-processed data belong to:
 # Scripts
 
 - _ConvLSTM4AD_train&val.ipynb_ performs data re-sampling, input normalization, label assignment, data division, model design, train and validation
-- _https://drive.google.com/file/d/1ke9LtG9S_Q-MpCeTe3WNtTR_mEQndJ1h/view?usp=sharing_ is the model with the lowest validation loss across the runs
-- _ConvLSTM4AD_test.ipynb_ evaluates the accuracy, precision, specificity, sensitivity, f1-score, Receiver Operating Characteristic (ROC) curve and Area Under the Curve (AUC) for the model _https://drive.google.com/file/d/1ke9LtG9S_Q-MpCeTe3WNtTR_mEQndJ1h/view?usp=sharing_ on test data
+- _https://drive.google.com/file/d/1F75v6aB2Q5hl6AK4JJhW1t4njvB_6lpO/view?usp=sharing_ is the model with the lowest validation loss across the runs
+- _ConvLSTM4AD_test.ipynb_ evaluates the accuracy, precision, specificity, sensitivity, f1-score, receiver operating characteristic curve and area under the curve for the aforementioned model on test data
 
 # Acknowledgment
 

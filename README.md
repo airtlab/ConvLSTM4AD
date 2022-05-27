@@ -57,6 +57,6 @@ BibTeX entry:
 	 booktitle={2021 IEEE 34th International Symposium on Computer-Based Medical Systems},
 	 pages={74--78},
 	 year={2021},
-	 organization={IEEE}
+	 organization={IEEE},
 	 doi={10.1109/CBMS52027.2021.00081}
 	 }
